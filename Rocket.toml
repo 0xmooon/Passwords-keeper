@@ -1,0 +1,8 @@
+[global.databases]
+sqlite_data_db = { url = "users.db", pool_size = 1 }
+
+[global]
+address = "0.0.0.0"
+
+[development]
+address = "0.0.0.0"
