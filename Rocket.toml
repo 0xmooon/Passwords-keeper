@@ -5,4 +5,5 @@ sqlite_data_db = { url = "users.db", pool_size = 1 }
 address = "0.0.0.0"
 
 [development]
-address = "0.0.0.0"
+address = "127.0.0.1"
+port = 8080
